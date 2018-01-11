@@ -1,6 +1,6 @@
 <?php
 
-use Hoa\Router;
+use Hoa\Router; test
 
 $router = new Router\Http();
 $router
